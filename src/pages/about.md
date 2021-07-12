@@ -1,5 +1,5 @@
 ---
-title: Guides
+title: About
 sections:
   - type: hero_section
     title: About
